@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CRUD with Redux and Vanilla JavaScript</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <main class="container">
+        <h1>CRUD with Redux and Vanilla JavaScript</h1>
+        <a href="../01_Counter/index.html" class="back-to-home">Counter with Redux</a>
+
+        <from class="todo-form">
+            <h2>Create / Update Task</h2>
+            <input type="hidden" id="todo-id">
+            <input type="hidden" id="todo-completed">
+            Title
+            <input type="text" id="todo-title">
+            Description
+            <input type="text" id="todo-description">
+            <button class="btn-create" id="create-todo">Create / Update Task</button>
+        </from>
+
+        <section>
+            <h2>To-do list</h2>
+            <ul id="todo-list"></ul>
+        </section>
+    </main>
+    <script src="js/store.js" type="module"></script>
+    <script src="js/index.js" type="module"></script>
+</body>
+</html>
