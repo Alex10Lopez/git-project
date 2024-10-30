@@ -8,18 +8,23 @@
 </head>
 <body>
     <main class="container">
-        <h1>CRUD with Redux and Vanilla JavaScript</h1>>
+        <h1>CRUD with Redux and Vanilla JavaScript</h1>
         <p>Using this project to learn git & github</p>
 
         <from class="todo-form">
             <h2>Create - Update Task</h2>
             <input type="hidden" id="todo-id">
             <input type="hidden" id="todo-completed">
-            Title
-            <input type="text" id="todo-title">
-            Description
-            <input type="text" id="todo-description">
-            <button class="btn-create" id="create-todo">Create / Update Task</button>
+            <div>
+                <p>Title</p>
+                <input type="text" id="todo-title">
+            </div>
+
+            <div>
+                <p>Description</p>
+                <input type="text" id="todo-description">
+            </div>
+            <button class="btn-create" id="create-todo">Create - Update Task</button>
         </from>
 
         <section>
@@ -27,6 +32,7 @@
             <ul id="todo-list"></ul>
         </section>
     </main>
+    
     <script src="js/store.js" type="module"></script>
     <script src="js/index.js" type="module"></script>
 </body>
