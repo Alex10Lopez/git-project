@@ -1,0 +1,100 @@
+commit 1195fb186339737a99304002b55b3c9a95fce029
+Merge: 9c2d19e c327318
+Author: Alex10Lopez <alekz.lopz.10@gmail.com>
+Date:   Tue Oct 29 22:26:41 2024 -0600
+
+    Organizing index.html (troubleshooting)
+
+commit 9c2d19e6a930de77a145736fa9f8b495e0c487d2
+Author: Alex10Lopez <alekz.lopz.10@gmail.com>
+Date:   Tue Oct 29 22:08:31 2024 -0600
+
+    Organizing index.html (again)
+
+commit c3273188d70c7be1704f0e3b79bb99366ceb298a
+Author: Alex10Lopez <alekz.lopz.10@gmail.com>
+Date:   Tue Oct 29 22:08:31 2024 -0600
+
+    Organizing index.html
+
+commit 559dec6feabd3c21405bf67f185ebe49513be97f
+Merge: 2c0cbc1 5bf5501
+Author: Alex10Lopez <alekz.lopz.10@gmail.com>
+Date:   Tue Oct 29 21:58:44 2024 -0600
+
+    Merge branch 'main' of https://github.com/Alex10Lopez/git-project
+
+commit 2c0cbc1f1836634b34d89affae814c39bd1d074c
+Merge: 1da78f1 845ee57
+Author: Alex10Lopez <alekz.lopz.10@gmail.com>
+Date:   Tue Oct 29 21:55:59 2024 -0600
+
+    Troubleshooting main/html marge in index.html
+
+commit 845ee57df3f11560f9be1cd29a6d9dd2e9e3b6e0
+Author: Alex10Lopez <alekz.lopz.10@gmail.com>
+Date:   Tue Oct 29 21:50:25 2024 -0600
+
+    Updating index.html from html branch
+
+commit 1da78f18c81c8a7d7f66ca2558de0612d65538ca
+Author: Alex10Lopez <alekz.lopz.10@gmail.com>
+Date:   Tue Oct 29 21:48:12 2024 -0600
+
+    Updating index.html
+
+commit 5bf5501734b523dda8b0ffdf1315f9216758efed
+Merge: 0725092 f5bdd4f
+Author: Alex10Lopez <alekz.lopz.10@gmail.com>
+Date:   Sun Oct 27 19:48:00 2024 -0600
+
+    Merge branch 'css'
+
+commit 072509211dce8587b3b5b00c82f4180df18f4e8a
+Merge: 2a11be0 792af80
+Author: Alex10Lopez <alekz.lopz.10@gmail.com>
+Date:   Sun Oct 27 19:41:17 2024 -0600
+
+    Merge branch 'js'
+
+commit 792af80c48ada67ee5de8e5401d822c8da956a9a
+Author: Alex10Lopez <alekz.lopz.10@gmail.com>
+Date:   Sun Oct 27 18:38:34 2024 -0600
+
+    Creating js directory and JavaScript files
+
+commit f5bdd4f20a3635354d77c7b74711cbeb38278bbd
+Author: Alex10Lopez <alekz.lopz.10@gmail.com>
+Date:   Sun Oct 27 18:07:40 2024 -0600
+
+    Creating css directory and styles.css
+
+commit 2a11be03234102027be0529fb375fd079f13f6d0
+Author: Alex10Lopez <alekz.lopz.10@gmail.com>
+Date:   Sun Oct 27 18:03:47 2024 -0600
+
+    Creating index.html
+
+commit 9f9c48f1dce4c9c232577ef754204d9e698356b9
+Author: Alex10Lopez <alekz.lopz.10@gmail.com>
+Date:   Sat Oct 26 17:38:15 2024 -0600
+
+    Ignore .exe files
+
+commit eda5d403efc17c4f60776e05f4244d4f59c98582
+Author: Alex10Lopez <alekz.lopz.10@gmail.com>
+Date:   Sat Oct 26 16:53:16 2024 -0600
+
+    Create LICENSE
+
+commit 1322e3a4eee7c83064329df03d9c99a0e5c5399b
+Author: Alex10Lopez <alekz.lopz.10@gmail.com>
+Date:   Sat Oct 26 16:39:17 2024 -0600
+
+    Adding initial content to README.md
+
+commit 2853263eb1252249aaebd8c5661aeb5561458173
+Author: Alex10Lopez <alekz.lopz.10@gmail.com>
+Date:   Sat Oct 26 16:38:08 2024 -0600
+
+    First commit :)

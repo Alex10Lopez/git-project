@@ -1,0 +1,31 @@
+*   1195fb1 Organizing index.html (troubleshooting)
+|\  
+| * c327318 Organizing index.html
+* | 9c2d19e Organizing index.html (again)
+|/  
+*   559dec6 Merge branch 'main' of https://github.com/Alex10Lopez/git-project
+|\  
+* \   2c0cbc1 Troubleshooting main/html marge in index.html
+|\ \  
+| * | 845ee57 Updating index.html from html branch
+* | | 1da78f1 Updating index.html
+| | | * 5c54210 WIP on main: 5bf5501 Merge branch 'css'
+| | |/| 
+| | | * 94f1beb index on main: 5bf5501 Merge branch 'css'
+| | |/  
+| | * 5bf5501 Merge branch 'css'
+| |/| 
+|/| | 
+| | * f5bdd4f Creating css directory and styles.css
+| |/  
+* |   0725092 Merge branch 'js'
+|\ \  
+| |/  
+|/|   
+| * 792af80 Creating js directory and JavaScript files
+* | 2a11be0 Creating index.html
+|/  
+* 9f9c48f Ignore .exe files
+* eda5d40 Create LICENSE
+* 1322e3a Adding initial content to README.md
+* 2853263 First commit :)
