@@ -62,7 +62,7 @@ input {
 
 .container {
   max-width: 600px;
-  margin: 0 auto;
+  margin: 1rem auto;
   padding: 1rem;
   background-color: white;
   box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.1);
@@ -131,4 +131,8 @@ input {
 .back-to-home {
   display: block;
   text-align: center;
+}
+
+img {
+  max-width: 100%;
 }
